@@ -1,0 +1,28 @@
+{
+	"auto_upgrade": false,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Codecs33",
+		"ConvertToUTF8",
+		"CTags",
+		"DashDoc",
+		"DocBlockr",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"SFTP",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-phplint",
+		"Theme - Monokai",
+		"Theme - Nexus",
+		"Theme - Sodarized"
+	]
+}
